@@ -32,9 +32,10 @@
             // 
             // frmFunctions
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(378, 534);
+            ClientSize = new Size(265, 320);
+            Margin = new Padding(2);
             Name = "frmFunctions";
             Text = "Functions";
             ResumeLayout(false);
